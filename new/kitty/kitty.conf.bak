@@ -1,0 +1,13 @@
+confirm_os_window_close 0
+font_size 14.0
+italic_font auto
+bold_font auto
+bold_italic_font auto
+font_size_delta 2
+font_family Caskaydia Cove Nerd Font Mono
+
+
+# BEGIN_KITTY_THEME
+# Catppuccin-Mocha
+include current-theme.conf
+# END_KITTY_THEME
